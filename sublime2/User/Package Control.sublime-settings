@@ -1,0 +1,19 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"DocBlockr",
+		"EditorConfig",
+		"Git",
+		"GitHub Flavored Markdown Preview",
+		"Markdown Preview",
+		"Package Control",
+		"Pretty JSON",
+		"Pretty YAML",
+		"SFTP",
+		"SideBarEnhancements"
+	]
+}
